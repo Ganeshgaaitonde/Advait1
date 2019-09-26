@@ -1,0 +1,110 @@
+*
+{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+   
+}
+body
+{
+    background: #efefef;
+    font-family: sans-serif;
+}
+.profile-img
+{
+    width: 23%;
+    float: right;
+   
+}
+.profile-img img
+{
+    width: 80%;
+    height: 44%;
+}
+.about
+{
+    margin-left:  10px;
+    margin-right: 10px;
+}
+.profile-Info
+{
+    width: 50%;
+    height: 50vh;
+    float: left;
+    padding: 0 10px;
+    overflow-x: hidden;
+   
+}
+.profile-Info h1
+{
+    font-style: normal;
+    margin-top: 50px;
+    margin-bottom: 30px;
+}
+.Social-media img
+{ background-color: black;
+   height: 10px;
+   margin-right: 5px;    
+}
+.Social-media
+{
+    margin-top: 8px;
+    margin-left: 6px;
+}
+.profile-Info h5
+{
+    margin-top: 20px;
+    margin-bottom: 5px;
+}
+.Skills img
+{
+   height: -10%;
+    margin: 1px;
+}
+.Skills
+{
+    display: inline-block;
+    width: 28%;
+    padding: 15px 7px;
+    margin: 2%;
+    text-align: center;
+    box-shadow: 0 0 5px 1px rgba(37, 73, 214, 0.18);
+    background: black;
+     border: 5px solid lime;
+}
+.Skills small
+{
+
+    padding-top: 10px;
+    display: block;
+   
+}
+.form-box
+{
+    margin: 30px;
+}
+.input-group input
+{
+    width: 25%;
+    border: 0;
+    outline: none !important;
+    padding: 2px;
+    margin: 1%;
+    display: inline-block;
+    background: #fff;
+   
+}
+.text-area textarea
+{
+    width: 53%;
+    border: 0;
+     outline: none !important;
+    padding: 1px;
+    margin: 1%;
+    background: #fff;
+}
+
+	
+	
+	
+
